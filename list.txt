@@ -40,6 +40,15 @@ Python
 SEO
 Inbound Marketing and Content Strategy
 
+Integrations
+Facebook API
+Instagram API
+Twitter API
+Mailgun
+Github
+Netlify
+RapidAPI
+
 
 Relatable skills:
 Screenwriting
