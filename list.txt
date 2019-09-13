@@ -48,6 +48,7 @@ Mailgun
 Github
 Netlify
 RapidAPI
+Hubspot
 
 
 Relatable skills:
