@@ -33,6 +33,9 @@ Bootstrap
 AngularJS
 Django
 Python
+SEO
+Inbound Marketing and Content Strategy
+
 
 Relatable skills:
 Screenwriting
