@@ -35,8 +35,7 @@ Javascript
 Bootstrap
 JQuery
 AngularJS
-Django
-Python
+Django + Python
 SEO
 Inbound Marketing and Content Strategy
 
